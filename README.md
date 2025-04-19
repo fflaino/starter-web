@@ -10,7 +10,10 @@ Testando aqui as funcionalidades
 ## Purpose
 
 Sample website with plenty of files for demos
+Sample website with plenty of files for demos
 
 ## Deployment
+
+Testando as alterações
 
 ## How To Contribute
