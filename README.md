@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 Testando as alterações
 
 ## How To Contribute
+
+### Copyright
+
+Git.Training
