@@ -4,8 +4,7 @@ This repository is for showing how Git and GitHub work
 This repository is for showing how Git and GitHub work
 
 Adding another line
-more changes to myfeature branch
-more changes to myfeature branch
+okoookokokokokokokoko
 
 ## Introdution
 
