@@ -26,4 +26,4 @@ please please please
 
 ### Copyright
 
-Git.Training
+Git.Training. All rights reserved
